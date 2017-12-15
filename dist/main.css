@@ -1,0 +1,2 @@
+body{height:100%}h1{font-family:Arial,sans-serif;margin-left:20px}ul{list-style-type:none}li{font-family:Arial,sans-serif;font-size:20px;padding-left:20px;margin-bottom:5px}li.done{text-decoration:line-through;color:#d3d3d3}li.open{color:#000}li button.todo{margin-right:20px;border:none;background-color:#fff}input{font-size:20px;font-family:Arial,sans-serif;margin-left:105px}button.add,input{border:1px solid #d3d3d3}button.add{background-color:#fff;border-radius:0;height:26px;margin-left:20px;padding-bottom:0}
+/*# sourceMappingURL=main.css.map*/
